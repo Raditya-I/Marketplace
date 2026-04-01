@@ -6,10 +6,44 @@
 }
 
 /*Kata*/
-header h1 {
-  font-family: "Boldonse", system-ui;
-  font-weight: 400;
-  font-style: normal;
+.ShapeH h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  font-size: 2.8rem;
+}
+.ShapeH a {
+  display: inline;
+  text-decoration: none;
+  color: white;
 }
 /*Bentuk*/
+.ShapeH {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 280px;
+  max-height: 1200px;
+  background: #4D6E4E;
+  margin: 0;
+  border-radius: 0 0 20px 20px;
+  box-shadow: 0 10px 15px rgb(0, 0, 0, 0.1);
+}
+.ShapeH nav {
+  display: block;
+  position: absolute;
+  bottom: 10px;
+  left: 50px;
+  right: 50px;
+  color: white;
+  background: #7BA97D;
+  border-radius: 20px;
+  width: auto;
+  height: 28px;
+  text-align: center;
+  padding: 0px;
+}
 /*kelas*/
