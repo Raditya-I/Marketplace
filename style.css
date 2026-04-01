@@ -56,7 +56,8 @@ nav a {
 }
 .home {
   position: absolute;
-  margin-top: 70px;
+  margin: 0;
+  padding-top: 50px;
   text-align: center;
 }
 .home h2 {
