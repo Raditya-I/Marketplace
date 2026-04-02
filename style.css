@@ -43,7 +43,7 @@ nav a {
   text-decoration: none;
   color: white;
   margin: 0 auto;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .home a{
   text-decoration: none;
@@ -60,6 +60,7 @@ nav a {
 }
 .home {
   display: block;
+  width: 100%;
   margin: 0;
   padding-top: 90px;
   text-align: center;
