@@ -10,7 +10,7 @@ body { font-size: 18px; }
 
 /* Gaya untuk layar yang lebarnya 768px atau kurang (Tablet/HP) */
 @media screen and (max-width: 760px) {
-  body { font-size: 12px; }
+  body { font-size: 18px; }
 }
 /*Kata*/
 .ShapeH h1 {
