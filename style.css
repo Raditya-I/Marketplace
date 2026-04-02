@@ -59,9 +59,9 @@ nav a {
   margin: 20px;
 }
 .home {
-  position: absolute;
+  display: block;
   margin: 0;
-  padding-top: 50px;
+  padding-top: 90px;
   text-align: center;
   padding-left: 30px;
   padding-right: 30px;
