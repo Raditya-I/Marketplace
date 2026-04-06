@@ -20,21 +20,21 @@ body {
   margin-bottom: 50px;
 }
 nav {
-  display: flex;
+  display: block;
   position: fixed;
-  text-align: center;
+  right: 0px;
+  top: 0px;
+  width: 100%;
+  text-align: right;
   background: #3A3F7D;
   padding: 10px;
-  z-index: 1000;
-  width: 100%;
   height: auto;
-  top: 0px;
   border-radius: 0 0 18px 18px;
 }
 nav > a {
   text-decoration: none;
   color: white;
-  font-size: 0.4rem;
+  font-size: 0.8rem;
   font-weight: 500;
   margin: 0 10px;
   display: inline-block;
@@ -62,7 +62,7 @@ footer {
   padding-top: 5px;
   max-height: 100px;
   position: fixed;
-  font-size: 0.5rem;
+  font-size: 0.8rem;
   bottom: 0px;
   background: #3A3F7D;
   text-align: center;
